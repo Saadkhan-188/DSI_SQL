@@ -55,6 +55,9 @@ The store wants to keep customer addresses. Propose two architectures for the CU
 ![SQL Assignment 2- Prompt 1 drawio](https://github.com/user-attachments/assets/c7a796b6-8073-412d-98c8-1ac9009753ac)
 
 ```
+Type 1: Replaces existing address
+Type 2: Keeps record of address
+
 Your answer...
 ```
 
